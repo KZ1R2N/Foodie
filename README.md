@@ -45,5 +45,5 @@
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/foodie.git
+   git clone https://github.com/KZ1R2N/Foodie.git
    cd foodie
